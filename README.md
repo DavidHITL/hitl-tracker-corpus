@@ -62,7 +62,7 @@ Signals are tagged by an LLM and reviewed by a human. Both make mistakes. If you
 - a dead or mis-attributed source URL,
 - a missing event that clearly belongs,
 
-please email **david@napkin.one** with the signal ID (or URL) and what you think is off. Corrections land in the next refresh cycle.
+please email **david@tenone.eu** with the signal ID (or URL) and what you think is off. Corrections land in the next refresh cycle.
 
 Pull requests are also welcome — see *Contributing* below.
 
@@ -87,4 +87,4 @@ All contributions are released under CC-BY 4.0 alongside the rest of the corpus.
 - **Live tracker:** https://humaneintheloop.com
 - **Essays:** https://humaneintheloop.substack.com
 - **Source repository (app code):** private for now
-- **Maintainer:** David Felsmann · david@napkin.one
+- **Maintainer:** David Felsmann · david@tenone.eu
