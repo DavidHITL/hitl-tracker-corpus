@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "slug": "safe-transparent",
+    "short_name": "Safe & Transparent",
+    "full_name": "AI should be built safely and transparently",
+    "current_path": "AI systems are deployed without meaningful transparency about capabilities, training, or failure modes. Incident disclosure is voluntary and uneven. Public understanding lags deployment.",
+    "better_future": "AI development is visible to the public and to independent scrutiny. Capabilities, evaluations, and failures are disclosed by default. Transparency is a pre-condition of trust, not an optional gesture.",
+    "norms_recommendations": [
+      "Treat transparency as a default professional norm, not a competitive liability.",
+      "Normalize proactive disclosure of incidents and near-misses."
+    ],
+    "laws_recommendations": [
+      "Mandate pre-deployment evaluations for frontier systems.",
+      "Require incident reporting to regulators within defined windows.",
+      "Enable third-party audits with right-of-access."
+    ],
+    "design_recommendations": [
+      "Publish model cards with substantive technical content, not marketing.",
+      "Disclose dangerous-capability evaluations publicly.",
+      "Surface model identity and limits at point of use."
+    ],
+    "display_order": 1
+  },
+  {
+    "id": 2,
+    "slug": "duty-of-care",
+    "short_name": "Duty of Care",
+    "full_name": "AI companies owe a duty of care to the public",
+    "current_path": "AI firms externalize harms onto users and society. Liability is unclear or pre-empted. Whistleblowers face retaliation. Safety teams are cut to accelerate shipping.",
+    "better_future": "AI developers and deployers owe the public a binding duty of care. Harms are internalized. Safety work is foundational, not optional. Whistleblowers are protected.",
+    "norms_recommendations": [
+      "Establish professional standards and codes of conduct for AI engineering.",
+      "Protect safety researchers and whistleblowers as a sectoral norm."
+    ],
+    "laws_recommendations": [
+      "Codify liability for foreseeable AI harms.",
+      "Enforce existing consumer protection law against deceptive AI claims.",
+      "Enable private rights of action for individuals harmed by AI systems."
+    ],
+    "design_recommendations": [
+      "Integrate safety-by-design and red teaming into release gates.",
+      "Maintain functional user-reporting channels with published resolution metrics.",
+      "Implement post-deployment monitoring and rapid response."
+    ],
+    "display_order": 2
+  },
+  {
+    "id": 3,
+    "slug": "human-wellbeing",
+    "short_name": "Human Well-being",
+    "full_name": "AI design should center human well-being",
+    "current_path": "Products optimize for engagement over well-being. Dark patterns are routine. Children are exposed to manipulative design. Mental health effects are externalized.",
+    "better_future": "Human well-being is the design target. Engagement metrics are subordinate to outcomes that serve users and communities. Protections for minors are default, not opt-in.",
+    "norms_recommendations": [
+      "Shift public and professional discourse from engagement to well-being outcomes.",
+      "Make dark-pattern design professionally disreputable."
+    ],
+    "laws_recommendations": [
+      "Restrict specific manipulative design patterns.",
+      "Default protections for minors (age-appropriate design codes).",
+      "Require transparency and user control over recommendation systems."
+    ],
+    "design_recommendations": [
+      "Ship privacy- and attention-respecting defaults.",
+      "Build well-being features (time limits, quiet hours) as first-class UI.",
+      "Reduce interruptive attention-capture in favor of user-initiated engagement."
+    ],
+    "display_order": 3
+  },
+  {
+    "id": 4,
+    "slug": "meaningful-work",
+    "short_name": "Meaningful Work",
+    "full_name": "AI should not automate away meaningful work and human dignity",
+    "current_path": "AI is framed as a replacement for human work without worker voice in deployment decisions. Algorithmic management erodes dignity. Automated decision systems operate without explanation or contestability.",
+    "better_future": "AI augments meaningful work and preserves human dignity. Workers have voice in deployment decisions. Consequential automated decisions are explainable and contestable.",
+    "norms_recommendations": [
+      "Include worker voice in AI deployment decisions as a professional standard.",
+      "Reject inevitabilist replacement framings in favor of augmentation."
+    ],
+    "laws_recommendations": [
+      "Fund transition support and retraining for workers displaced by AI.",
+      "Regulate algorithmic management of workers.",
+      "Require notification and consultation before consequential AI deployment in workplaces.",
+      "Codify rights to explanation and human review of automated decisions."
+    ],
+    "design_recommendations": [
+      "Keep humans in authoritative roles for high-stakes decisions.",
+      "Position products as augmenting rather than replacing human work.",
+      "Provide transparent attribution of AI-generated work."
+    ],
+    "display_order": 4
+  },
+  {
+    "id": 5,
+    "slug": "rights-freedom",
+    "short_name": "Rights & Freedom",
+    "full_name": "AI innovation should not come at the expense of our rights and freedom",
+    "current_path": "AI systems enable new scales of surveillance, discrimination, and manipulation. Biometric capture is expanding. Algorithmic decisions shape access to housing, credit, liberty without meaningful review.",
+    "better_future": "AI innovation operates within a strong rights and freedom framework. Surveillance is constrained. Bias is measured and mitigated. Data protection is robust. People retain meaningful control over how AI affects their lives.",
+    "norms_recommendations": [
+      "Treat algorithmic surveillance as a civil liberties concern, not an infrastructure question.",
+      "Recognize systemic algorithmic discrimination as a legitimate policy target."
+    ],
+    "laws_recommendations": [
+      "Limit biometric and facial recognition deployment, especially by law enforcement.",
+      "Extend anti-discrimination law to cover algorithmic decision-making.",
+      "Strengthen data protection (access, deletion, purpose limitation, portability).",
+      "Restrict predictive policing and algorithmic sentencing without oversight."
+    ],
+    "design_recommendations": [
+      "Default to data minimization and on-device processing where feasible.",
+      "Build fairness testing into the development lifecycle.",
+      "Surface user rights (access, correction, deletion) as first-class UI."
+    ],
+    "display_order": 5
+  },
+  {
+    "id": 6,
+    "slug": "international-limits",
+    "short_name": "International Limits",
+    "full_name": "AI should have internationally agreed-upon limits",
+    "current_path": "AI development races ahead of governance. Frontier labs operate with voluntary and inconsistent safety commitments. Dangerous capabilities emerge before international agreement is possible.",
+    "better_future": "AI development operates within internationally agreed limits. Safety thresholds are shared across jurisdictions. Export controls and compute governance align across allies. Dangerous capabilities are coordinated, not raced.",
+    "norms_recommendations": [
+      "Build international scientific consensus on AI risks (IPCC-style).",
+      "Foster multilateral civil society coordination on AI governance demands."
+    ],
+    "laws_recommendations": [
+      "Advance binding multilateral instruments (e.g., Council of Europe AI Convention).",
+      "Coordinate export controls on frontier compute and models.",
+      "Establish compute governance and licensing regimes.",
+      "Codify shared safety thresholds (bioweapon uplift, cyber offense, autonomy)."
+    ],
+    "design_recommendations": [
+      "Publish voluntary frontier-safety commitments that are specific and testable.",
+      "Share dangerous-capability evaluations with peers and regulators.",
+      "Align evaluation protocols internationally."
+    ],
+    "display_order": 6
+  },
+  {
+    "id": 7,
+    "slug": "balanced-power",
+    "short_name": "Balanced Power",
+    "full_name": "AI power should be balanced in society",
+    "current_path": "AI power concentrates in a handful of firms with unprecedented influence over markets, public discourse, and policy. Open alternatives are starved of capital and compute. Democratic institutions struggle to hold AI firms accountable.",
+    "better_future": "AI power is distributed across a healthy ecosystem of commercial, open-source, public, and cooperative actors. Antitrust and competition policy apply. Democratic institutions retain capacity to govern.",
+    "norms_recommendations": [
+      "Treat AI market concentration as a competition and democratic concern.",
+      "Sustain substantive public debate on open vs closed AI beyond either-side capture."
+    ],
+    "laws_recommendations": [
+      "Apply antitrust and competition rules to AI markets.",
+      "Mandate interoperability and data portability.",
+      "Fund public-option AI and sovereign compute alternatives.",
+      "Restrict political use of AI (deepfakes, AI-generated campaign speech)."
+    ],
+    "design_recommendations": [
+      "Support responsible open-weights releases of capable models.",
+      "Invest in decentralized and federated architectures.",
+      "Provide fair API access to closed models for third-party developers."
+    ],
+    "display_order": 7
+  }
+]

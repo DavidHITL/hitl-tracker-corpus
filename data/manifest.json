@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-04-19T08:52:21.500Z",
+  "counts": {
+    "principles": 7,
+    "indicators": 69,
+    "signals": 158,
+    "source_feeds": 31
+  },
+  "codebook_version": "v0.1",
+  "license": "CC-BY-4.0",
+  "source_repository": "https://github.com/DavidHITL/hitl-tracker-corpus",
+  "tracker_ui": "https://humaneintheloop.com"
+}

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "2c5ab83f-9258-4936-9f46-5856587eb8f3",
+    "outlet": "AI Now Institute",
+    "source_type": "research",
+    "geography": "global",
+    "url": "https://ainowinstitute.org",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.8
+  },
+  {
+    "id": "c64691d6-c435-4915-a0d1-cad217504b96",
+    "outlet": "Anthropic",
+    "source_type": "industry",
+    "geography": "global",
+    "url": "https://www.anthropic.com/news",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.5
+  },
+  {
+    "id": "d566ccd0-36f8-4ca2-9edd-ccc6f48c9342",
+    "outlet": "arXiv cs.CY",
+    "source_type": "research",
+    "geography": "global",
+    "url": "https://arxiv.org/list/cs.CY/recent",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.8
+  },
+  {
+    "id": "5b29d519-4d2b-4174-bacb-695f63724e25",
+    "outlet": "Bloomberg — AI",
+    "source_type": "media",
+    "geography": "global",
+    "url": "https://www.bloomberg.com/ai",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "38d03460-868c-42a5-94c5-dd9826a81496",
+    "outlet": "Brookings AI Governance",
+    "source_type": "research",
+    "geography": "global",
+    "url": "https://www.brookings.edu/topic/artificial-intelligence",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.8
+  },
+  {
+    "id": "121c41ed-2312-40c0-a15d-d56211453b6b",
+    "outlet": "Center for Humane Technology",
+    "source_type": "advocacy",
+    "geography": "global",
+    "url": "https://www.humanetech.com",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.8
+  },
+  {
+    "id": "f2f39b92-443b-4574-8991-4b74804ae571",
+    "outlet": "Congress.gov",
+    "source_type": "official",
+    "geography": "us",
+    "url": "https://www.congress.gov",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "c5fa8602-2e0d-4443-8929-4b9fddfd6546",
+    "outlet": "Council of Europe AI",
+    "source_type": "official",
+    "geography": "europe",
+    "url": "https://www.coe.int/en/web/artificial-intelligence",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "c868b02b-32f1-4d4b-86db-993a8cf9a058",
+    "outlet": "CourtListener",
+    "source_type": "official",
+    "geography": "us",
+    "url": "https://www.courtlistener.com",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "7bf758d3-50ea-4753-a2ec-2e6fea1b4eb8",
+    "outlet": "DOJ Antitrust",
+    "source_type": "official",
+    "geography": "us",
+    "url": "https://www.justice.gov/atr",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "0f77c70c-a91c-434c-a642-45bda6130721",
+    "outlet": "Electronic Frontier Foundation",
+    "source_type": "advocacy",
+    "geography": "us",
+    "url": "https://www.eff.org/issues/ai",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "b43f884d-1a61-480f-9b70-bbaabffc78c2",
+    "outlet": "EUR-Lex",
+    "source_type": "official",
+    "geography": "europe",
+    "url": "https://eur-lex.europa.eu",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "fd534b7a-21f0-42d8-98a0-b9f057ec29e8",
+    "outlet": "European Commission Digital",
+    "source_type": "official",
+    "geography": "europe",
+    "url": "https://digital-strategy.ec.europa.eu",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "23d7635a-26ba-4933-a358-e8847aca2723",
+    "outlet": "Federal Register",
+    "source_type": "official",
+    "geography": "us",
+    "url": "https://www.federalregister.gov",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "704d28bd-903d-4a49-8d5e-de5bc4c33fc9",
+    "outlet": "Financial Times — AI",
+    "source_type": "media",
+    "geography": "global",
+    "url": "https://www.ft.com/artificial-intelligence",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "cea8887a-1a8d-42e5-b113-8f05a74cb4cc",
+    "outlet": "Frontier Model Forum",
+    "source_type": "industry",
+    "geography": "global",
+    "url": "https://www.frontiermodelforum.org",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.6
+  },
+  {
+    "id": "70dee2e0-1dd0-4582-a23b-57983c5477a3",
+    "outlet": "FTC Press",
+    "source_type": "official",
+    "geography": "us",
+    "url": "https://www.ftc.gov/news-events",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "0955c8e1-e4cb-475d-b147-583c867184cd",
+    "outlet": "Google DeepMind",
+    "source_type": "industry",
+    "geography": "global",
+    "url": "https://deepmind.google/discover",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.5
+  },
+  {
+    "id": "d9fc54e0-35a8-46d7-a530-3a67fb593477",
+    "outlet": "MIT Technology Review",
+    "source_type": "media",
+    "geography": "global",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "4fb7fc11-d128-402c-a49b-680da679e795",
+    "outlet": "New York Times — AI",
+    "source_type": "media",
+    "geography": "global",
+    "url": "https://www.nytimes.com/spotlight/artificial-intelligence",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "fd356693-29ad-4f9e-afd0-f31d668e7990",
+    "outlet": "OECD AI Policy Observatory",
+    "source_type": "official",
+    "geography": "europe",
+    "url": "https://oecd.ai",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "db5c13ef-1668-4892-a273-1e60b612fda7",
+    "outlet": "OpenAI",
+    "source_type": "industry",
+    "geography": "global",
+    "url": "https://openai.com/blog",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.5
+  },
+  {
+    "id": "f9b84b3a-d0ef-42bc-a6b3-0b621a4745f5",
+    "outlet": "Reuters — Tech",
+    "source_type": "media",
+    "geography": "global",
+    "url": "https://www.reuters.com/technology",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "8943d64a-56e8-4736-839f-68f9330bc458",
+    "outlet": "Stanford HAI",
+    "source_type": "research",
+    "geography": "global",
+    "url": "https://hai.stanford.edu",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.9
+  },
+  {
+    "id": "ccbeb584-b8d0-40db-b1ed-a188edae979a",
+    "outlet": "UK ICO",
+    "source_type": "official",
+    "geography": "europe",
+    "url": "https://ico.org.uk",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "ccac7193-5619-4e3b-b7a7-1667eee4b5cc",
+    "outlet": "UK Parliament Hansard",
+    "source_type": "official",
+    "geography": "europe",
+    "url": "https://hansard.parliament.uk",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 1
+  },
+  {
+    "id": "436464e0-59d8-491d-88a2-d39cfaff69e6",
+    "outlet": "Washington Post — AI",
+    "source_type": "media",
+    "geography": "us",
+    "url": "https://www.washingtonpost.com/technology/artificial-intelligence",
+    "tier": 1,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "38267ab3-d9ba-47a2-88e1-b74c5ba2d8b5",
+    "outlet": "Algorithmic Justice League",
+    "source_type": "advocacy",
+    "geography": "us",
+    "url": "https://www.ajl.org",
+    "tier": 2,
+    "active": true,
+    "triangulation_weight": 0.7
+  },
+  {
+    "id": "c1014648-e412-4018-baa0-f1f03bec235a",
+    "outlet": "arXiv cs.AI (safety)",
+    "source_type": "research",
+    "geography": "global",
+    "url": "https://arxiv.org/list/cs.AI/recent",
+    "tier": 2,
+    "active": true,
+    "triangulation_weight": 0.8
+  },
+  {
+    "id": "a791f3ed-4847-416a-901a-4c52b752aebe",
+    "outlet": "CB Insights Pressroom",
+    "source_type": "capital",
+    "geography": "global",
+    "url": "https://www.cbinsights.com/newsroom",
+    "tier": 2,
+    "active": true,
+    "triangulation_weight": 0.6
+  },
+  {
+    "id": "a89ba5ba-5927-41e1-a7ea-8b87fa4835c0",
+    "outlet": "Data Center Dynamics",
+    "source_type": "capital",
+    "geography": "global",
+    "url": "https://www.datacenterdynamics.com",
+    "tier": 2,
+    "active": true,
+    "triangulation_weight": 0.6
+  }
+]
